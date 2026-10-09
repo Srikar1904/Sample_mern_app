@@ -1,0 +1,10 @@
+.header{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
